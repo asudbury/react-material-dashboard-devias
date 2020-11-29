@@ -4,4 +4,4 @@ A Devias React Material Design Dashboard that highlights how it can be deployed 
 
 https://asudbury.github.io/react-material-dashboard-devias/
 
-![Alt text](/src/assets/img/screen-shot.PNG?raw=true)
+![Alt text](/src/assets/img/screen-shot.png?raw=true)
