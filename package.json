@@ -43,7 +43,7 @@
     "prop-types": "^15.8.1",
     "react": "^16.14.0",
     "react-chartjs-2": "^2.11.2",
-    "react-dom": "^16.14.0",
+    "react-dom": "^19.0.0",
     "react-feather": "^2.0.10",
     "react-helmet": "^6.1.0",
     "react-perfect-scrollbar": "^1.5.8",
