@@ -48,7 +48,7 @@
     "react-helmet": "^6.1.0",
     "react-perfect-scrollbar": "^1.5.8",
     "react-router": "^7.5.0",
-    "react-router-dom": "^7.4.0",
+    "react-router-dom": "^7.5.0",
     "react-scripts": "^5.0.1",
     "uuid": "^11.1.0",
     "yup": "^1.6.1"
